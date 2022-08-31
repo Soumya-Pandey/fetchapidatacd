@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+**Task: Fetch API data and show that data on UI.**
+
+
+
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
